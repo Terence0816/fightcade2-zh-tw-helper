@@ -1,5 +1,7 @@
 # Fightcade 2 繁中助手
 
+[![總下載量](https://img.shields.io/github/downloads/Terence0816/fightcade2-zh-tw-helper/total?style=for-the-badge&label=%E7%B8%BD%E4%B8%8B%E8%BC%89%E9%87%8F&color=22c7c9)](https://github.com/Terence0816/fightcade2-zh-tw-helper/releases)
+
 **Fightcade 2 繁體中文化工具**，提供 Fightcade 大廳、規則、通知、帳號設定、上方原生選單，以及 Fightcade FBNeo 模擬器的繁體中文化。
 
 > 本工具為非官方社群作品，與 Fightcade 官方及 FinalBurn Neo 官方沒有直接關係。  
@@ -20,16 +22,6 @@
 ## 下載
 
 請前往本專案的 [Releases](../../releases/latest) 頁面下載最新版：
-
-```text
-Fightcade2_zhTW_Helper_v0.2.1.exe
-```
-
-目前版本：
-
-```text
-v0.2.1
-```
 
 ## 支援環境
 
